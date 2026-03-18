@@ -5,8 +5,7 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text>Wellcome</Text>
-      <Link href={"/about"}>Go to about</Link>
-      <Link href={"/contact"}>Go to contact</Link>
+    
     </View>
   );
 }
